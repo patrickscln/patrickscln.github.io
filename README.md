@@ -2,12 +2,14 @@
 
 https://jekyllrb.com/showcase/
 
-un título,
-texto en el cuerpo del archivo, y
-una imagen junto con su fuente.
+Patricio Orozco personal web page
 
-My name is Victor Hugo and I grew up in the East Coast of Mexico and, as a consequence, I like Piña Colada, getting caught in the warm rain, and the sound of the ocean.
+In this web page you will find personal and profecional information about Patricio Orozco
 
-![](https://media.giphy.com/media/wVmVnHNvdHBPSWMB9r/giphy.gif)
+My name is Patricio Orozco I am living in Guadalajara Mexico, right now I am studing data science in UDG university 
 
-Source: [Giphy](https://giphy.com/gifs/idea-concept-what-a-wVmVnHNvdHBPSWMB9r)
+
+
+![](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif)
+
+Source: [Giphy](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif)
